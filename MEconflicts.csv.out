@@ -1,0 +1,64 @@
+Starting...
+swapping in the following entries
+[<__main__.Fencer instance at 0x10ad95f38>]
+Competitor List
+Keith                LICHTEN             	 EBFG                	 A   	 15
+Alexandre            RACHTCHININE        	 NO FEAR             	 A   	 15
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+David                HITCHCOCK           	 NO FEAR             	 A   	 15
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Tracy                COLWELL             	 EBFG                	 A   	 15
+Alexander            TUROFF              	 FISHKILL / CANDLE   	 A   	 15
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC / USMPENT	 A   	 14
+Kashi                WAY                 	 EBFG                	 A   	 14
+Joseph               DEUCHER             	                     	 A   	 14
+Alberto              FELIX               	                     	 A   	 14
+Tomas                STRAKA              	                     	 A   	 12
+Daniel               KROGH               	 EBFG                	 B   	 15
+Andrew               DAVIS               	 EBFG                	 B   	 15
+Joseph               HARRINGTON          	 NO FEAR             	 B   	 15
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+Michael              LOPARCO             	                     	 B   	 14
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+John                 KISSINGFORD         	 NO FEAR             	 C   	 15
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+David                NEMAZIE             	 EBFG                	 C   	 12
+Jansen               HU                  	                     	 D   	 14
+Michael              MRAK                	 MEDEO F.C.          	 U   	 
+{'EBFG': 7, '': 5, 'METRO TACOMA': 1, 'MEDEO F.C.': 2, 'FISHKILL / CANDLE': 1, 'NO FEAR': 6, 'OLYMPIANFC / USMPENT': 1, 'LOUISVLLE F.C.': 1}
+
+
+Pool List
+--)------- Pool # 1 -------(-- (6)
+Keith                LICHTEN             	 EBFG                	 A   	 15
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC / USMPENT	 A   	 14
+Andrew               DAVIS               	 EBFG                	 B   	 15
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+
+--)------- Pool # 2 -------(-- (6)
+Alexandre            RACHTCHININE        	 NO FEAR             	 A   	 15
+Alexander            TUROFF              	 FISHKILL / CANDLE   	 A   	 15
+Kashi                WAY                 	 EBFG                	 A   	 14
+Daniel               KROGH               	 EBFG                	 B   	 15
+Michael              LOPARCO             	                     	 B   	 14
+Michael              MRAK                	 MEDEO F.C.          	 U   	 
+
+--)------- Pool # 3 -------(-- (6)
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+Tracy                COLWELL             	 EBFG                	 A   	 15
+Joseph               DEUCHER             	                     	 A   	 14
+Joseph               HARRINGTON          	 NO FEAR             	 B   	 15
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+Jansen               HU                  	                     	 D   	 14
+
+--)------- Pool # 4 -------(-- (6)
+David                HITCHCOCK           	 NO FEAR             	 A   	 15
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Alberto              FELIX               	                     	 A   	 14
+Tomas                STRAKA              	                     	 A   	 12
+John                 KISSINGFORD         	 NO FEAR             	 C   	 15
+David                NEMAZIE             	 EBFG                	 C   	 12
+

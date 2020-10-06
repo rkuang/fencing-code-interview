@@ -1,0 +1,118 @@
+Starting...
+Competitor List
+Keith                LICHTEN             	 EBFG                	 A   	 15
+Alexandre            RACHTCHININE        	 FAIRFAX FENCERS CLUB	 A   	 15
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+David                HITCHCOCK           	 OLYMPIA F. C.       	 A   	 15
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Tracy                COLWELL             	 CARDINAL            	 A   	 15
+Alexander            TUROFF              	 FISHKILL / CANDLE   	 A   	 15
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC / USMPENT	 A   	 14
+Kashi                WAY                 	 DCFC                	 A   	 14
+Joseph               DEUCHER             	 TOURFC              	 A   	 14
+Alberto              FELIX               	                     	 A   	 14
+Creston              BAILEY              	 NO FEAR             	 A   	 14
+Tomas                STRAKA              	 WCFA                	 A   	 12
+Daniel               KROGH               	 NWFC                	 B   	 15
+Andrew               DAVIS               	 EBFG                	 B   	 15
+Joseph               HARRINGTON          	                     	 B   	 15
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+Michael              LOPARCO             	 ALLIANCE F.A.       	 B   	 14
+Manuel               CORRALES            	                     	 B   	 14
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+Steven               FIALKOWSKI          	 EBFG                	 B   	 13
+Christopher          GETSLA              	 CABRAOTSL           	 B   	 11
+John                 KISSINGFORD         	 DFC                 	 C   	 15
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+Phil                 AJAYI               	 PFFC                	 C   	 15
+Marc                 UNGER               	 TFCSANJOSE          	 C   	 14
+John                 COMES               	 W.F.A.              	 C   	 14
+Lewis                WADSWORTH IV        	 BSF                 	 C   	 13
+David                ST. GEORGE          	 IL F.C.             	 C   	 13
+Marc                 KURITZ              	 NO FEAR             	 C   	 13
+David                NEMAZIE             	 SALISBURY           	 C   	 12
+Robert               THOMAS Jr.          	 CFFA                	 C   	 11
+Jansen               HU                  	 LAIFC               	 D   	 14
+Onno                 VAN EIKEMA HOMMES   	 OLYMPIA F. C.       	 D   	 14
+Robert               HARRIS              	 OLYMPIA F. C.       	 E   	 15
+Paul                 FLY                 	 SAS                 	 E   	 14
+Cesar                COLLANTES           	 EBFG                	 E   	 14
+Gregory              PEISTRUP            	 F.A. - NV           	 E   	 13
+Michael              MRAK                	 MEDEO F.C.          	 U   	 
+Stephen              LEE                 	                     	 U   	 
+Oronde               GORDON              	 EBFG                	 U   	 
+Arejas               UZGIRIS             	 WESTBFC             	 U   	 
+Sean                 FLETCHER            	 EBFG                	 U   	 
+Sushil               TYAGI               	 LAIFC               	 U   	 
+Matthias             ROSCHKE             	 DECESARE            	 U   	 
+Scott                DOUDRICK            	 FORTUNE             	 U   	 
+Brian                FERGUSON            	 TFCSANJOSE / FORTUNE	 U   	 
+{'': 4, 'DECESARE': 1, 'FORTUNE': 1, 'ALLIANCE F.A.': 1, 'DCFC': 1, 'OLYMPIA F. C.': 3, 'FAIRFAX FENCERS CLUB': 1, 'FISHKILL / CANDLE': 1, 'NWFC': 1, 'LAIFC': 2, 'IL F.C.': 1, 'EBFG': 7, 'W.F.A.': 1, 'TOURFC': 1, 'TFCSANJOSE / FORTUNE': 1, 'SAS': 1, 'WCFA': 1, 'BSF': 1, 'CFFA': 1, 'TFCSANJOSE': 1, 'LOUISVLLE F.C.': 1, 'CABRAOTSL': 1, 'MEDEO F.C.': 2, 'DFC': 1, 'WESTBFC': 1, 'METRO TACOMA': 1, 'PFFC': 1, 'F.A. - NV': 1, 'NO FEAR': 4, 'OLYMPIANFC / USMPENT': 1, 'CARDINAL': 1, 'SALISBURY': 1}
+
+
+Pool List
+--)------- Pool # 1 -------(-- (6)
+Keith                LICHTEN             	 EBFG                	 A   	 15
+Joseph               HARRINGTON          	                     	 B   	 15
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+David                NEMAZIE             	 SALISBURY           	 C   	 12
+Robert               THOMAS Jr.          	 CFFA                	 C   	 11
+Brian                FERGUSON            	 TFCSANJOSE / FORTUNE	 U   	 
+
+--)------- Pool # 2 -------(-- (6)
+Alexandre            RACHTCHININE        	 FAIRFAX FENCERS CLUB	 A   	 15
+Daniel               KROGH               	 NWFC                	 B   	 15
+Andrew               DAVIS               	 EBFG                	 B   	 15
+Marc                 KURITZ              	 NO FEAR             	 C   	 13
+Jansen               HU                  	 LAIFC               	 D   	 14
+Scott                DOUDRICK            	 FORTUNE             	 U   	 
+
+--)------- Pool # 3 -------(-- (6)
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+Tomas                STRAKA              	 WCFA                	 A   	 12
+Michael              LOPARCO             	 ALLIANCE F.A.       	 B   	 14
+David                ST. GEORGE          	 IL F.C.             	 C   	 13
+Onno                 VAN EIKEMA HOMMES   	 OLYMPIA F. C.       	 D   	 14
+Matthias             ROSCHKE             	 DECESARE            	 U   	 
+
+--)------- Pool # 4 -------(-- (6)
+David                HITCHCOCK           	 OLYMPIA F. C.       	 A   	 15
+Creston              BAILEY              	 NO FEAR             	 A   	 14
+Manuel               CORRALES            	                     	 B   	 14
+Lewis                WADSWORTH IV        	 BSF                 	 C   	 13
+Paul                 FLY                 	 SAS                 	 E   	 14
+Sean                 FLETCHER            	 EBFG                	 U   	 
+
+--)------- Pool # 5 -------(-- (6)
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Alberto              FELIX               	                     	 A   	 14
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+John                 COMES               	 W.F.A.              	 C   	 14
+Robert               HARRIS              	 OLYMPIA F. C.       	 E   	 15
+Oronde               GORDON              	 EBFG                	 U   	 
+
+--)------- Pool # 6 -------(-- (6)
+Tracy                COLWELL             	 CARDINAL            	 A   	 15
+Joseph               DEUCHER             	 TOURFC              	 A   	 14
+Steven               FIALKOWSKI          	 EBFG                	 B   	 13
+Marc                 UNGER               	 TFCSANJOSE          	 C   	 14
+Gregory              PEISTRUP            	 F.A. - NV           	 E   	 13
+Sushil               TYAGI               	 LAIFC               	 U   	 
+
+--)------- Pool # 7 -------(-- (6)
+Alexander            TUROFF              	 FISHKILL / CANDLE   	 A   	 15
+Kashi                WAY                 	 DCFC                	 A   	 14
+Christopher          GETSLA              	 CABRAOTSL           	 B   	 11
+Phil                 AJAYI               	 PFFC                	 C   	 15
+Cesar                COLLANTES           	 EBFG                	 E   	 14
+Arejas               UZGIRIS             	 WESTBFC             	 U   	 
+
+--)------- Pool # 8 -------(-- (6)
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC / USMPENT	 A   	 14
+John                 KISSINGFORD         	 DFC                 	 C   	 15
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+Michael              MRAK                	 MEDEO F.C.          	 U   	 
+Stephen              LEE                 	                     	 U   	 
+

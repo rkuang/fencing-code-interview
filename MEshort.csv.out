@@ -1,0 +1,36 @@
+Starting...
+Competitor List
+Keith                LICHTEN             	 EBFG                	 A   	 15
+Alexandre            RACHTCHININE        	 FAIRFAX FENCERS CLUB	 A   	 15
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+David                HITCHCOCK           	 OLYMPIA F. C.       	 A   	 15
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC          	 A   	 14
+Tomas                STRAKA              	 SSC                 	 A   	 12
+Daniel               KROGH               	 NWFC                	 B   	 15
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+John                 KISSINGFORD         	 NO FEAR             	 C   	 15
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+{'EBFG': 2, 'METRO TACOMA': 1, 'OLYMPIA F. C.': 1, 'OLYMPIANFC': 1, 'FAIRFAX FENCERS CLUB': 1, 'NO FEAR': 3, 'NWFC': 1, 'LOUISVLLE F.C.': 1, 'MEDEO F.C.': 1, 'SSC': 1}
+
+
+Pool List
+--)------- Pool # 1 -------(-- (7)
+Keith                LICHTEN             	 EBFG                	 A   	 15
+David                HITCHCOCK           	 OLYMPIA F. C.       	 A   	 15
+Sergey               SUPONYA             	 MEDEO F.C.          	 A   	 15
+Tomas                STRAKA              	 SSC                 	 A   	 12
+Daniel               KROGH               	 NWFC                	 B   	 15
+John                 KISSINGFORD         	 NO FEAR             	 C   	 15
+Aaron                PAGE                	 METRO TACOMA        	 C   	 15
+
+--)------- Pool # 2 -------(-- (6)
+Alexandre            RACHTCHININE        	 FAIRFAX FENCERS CLUB	 A   	 15
+Mehmet               TEPEDELENLIOGLU     	 EBFG                	 A   	 15
+Halim                ALJIBURY            	 NO FEAR             	 A   	 14
+Velizar              ILIEV               	 OLYMPIANFC          	 A   	 14
+Kenneth              HAGAN               	 LOUISVLLE F.C.      	 B   	 14
+Alfred               ROEBUCK             	 NO FEAR             	 B   	 13
+
